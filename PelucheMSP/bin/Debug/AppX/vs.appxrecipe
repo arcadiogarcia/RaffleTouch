@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SURFACE10-ARCAD</Machine>
+    <WindowsUser>Arcadio</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>9826ece7-0f3c-4533-b2de-9e5b7e5e79e7</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>397EB06107A40AE3EDEEC283BC08C1C00617799FFF75B9F27ED21F6F5929FECB</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9826ece7-0f3c-4533-b2de-9e5b7e5e79e7_1.0.0.1_neutral__3cm9bmetm2tqg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9826ece7-0f3c-4533-b2de-9e5b7e5e79e7_3cm9bmetm2tqg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9826ece7-0f3c-4533-b2de-9e5b7e5e79e7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Arcadio</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-24T21:02:08.277</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2015-02-28T22:15:23.143</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\images\bg.png">
+      <PackagePath>images\bg.png</PackagePath>
+      <Modified>2015-02-19T15:43:16.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\images\boxbg.png">
+      <PackagePath>images\boxbg.png</PackagePath>
+      <Modified>2015-02-19T15:45:43.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T15:55:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\images\msplogo.png">
+      <PackagePath>images\msplogo.png</PackagePath>
+      <Modified>2015-02-19T15:49:11.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T15:55:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T15:55:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-07T15:55:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\js\canvas.js">
+      <PackagePath>js\canvas.js</PackagePath>
+      <Modified>2015-02-28T22:15:00.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2015-02-28T22:19:15.164</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\js\sorteo.js">
+      <PackagePath>js\sorteo.js</PackagePath>
+      <Modified>2015-02-28T22:17:14.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2015-02-19T18:12:29.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-24T21:03:51.296</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

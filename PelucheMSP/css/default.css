@@ -1,0 +1,42 @@
+﻿body {
+    background:#FFF url("/images/bg.png") bottom right;
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin:0px;
+    padding:0px;
+    font-family:'Segoe UI';
+}
+
+#canvas{
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:100%;
+    height:100%;
+}
+
+#content {
+    transition: background 1s;
+    box-sizing: border-box;
+    display: block;
+    width: 600px;
+    height: 400px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin-left:-300px;
+    margin-top:-260px;
+    background:rgba(60,200,244,0.6) url("/images/boxbg.png");
+    font-size:60pt;
+    padding:40px;
+    text-align:center;
+    font-weight:bold;
+    color:rgba(60,114,188,1);
+}
+
+
+#content:hover{
+     background-color:rgba(255,255,255,0.6);
+}#content:active{
+     background-color:rgba(255,255,255,0.8);
+}

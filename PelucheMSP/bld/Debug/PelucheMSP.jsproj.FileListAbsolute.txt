@@ -1,0 +1,15 @@
+c:\users\arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bin\Debug\AppxManifest.xml
+c:\users\arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bin\Debug\PelucheMSP.build.appxrecipe
+c:\users\arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bld\Debug\priconfig.xml
+c:\users\arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bld\Debug\priconfig.xml.intermediate
+c:\users\arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bld\Debug\layout.resfiles
+c:\users\arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bld\Debug\layout.resfiles.intermediate
+c:\users\arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bld\Debug\resources.resfiles
+c:\users\arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bld\Debug\resources.resfiles.intermediate
+c:\users\arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bld\Debug\pri.resfiles
+c:\users\arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bld\Debug\pri.resfiles.intermediate
+c:\users\arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bld\Debug\qualifiers.txt
+c:\users\arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bld\Debug\qualifiers.txt.intermediate
+c:\users\arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bld\Debug\ProjectArchitectures.txt
+C:\Users\Arcadio\documents\visual studio 2015\Projects\PelucheMSP\PelucheMSP\bin\Debug\ReverseMap\resources.pri

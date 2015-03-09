@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>PelucheMSP</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.2.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.2.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.2.0/js/ui.js"></script>
+
+    <!-- PelucheMSP references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/canvas.js"></script>
+    <script src="/js/sorteo.js"></script>
+     <script src="/js/default.js"></script>
+</head>
+<body>
+    <canvas id="canvas"></canvas>
+    <img src="images/msplogo.png" style="position:absolute;bottom:0px;right:0px;"/>
+    <div id="content" onmouseup="clickbox();" onmousedown="hold();">
+        ¡Si aparece este texto, alarmate!
+    </div>
+</body>
+</html>
